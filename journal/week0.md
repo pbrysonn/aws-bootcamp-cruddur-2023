@@ -50,11 +50,11 @@ We discussed about how we could successfully realize our design plans step by st
 - This is Created by business stakeholders and architects
 - It Organizes and defines concepts and rules
 - It is popularly known as the "Napkin Design"
-- Here is my napkin design: ![Napkin Diagram](https://freeimage.host/i/HGzeMXa)
+- Here is my napkin design: [Napkin Diagram](https://freeimage.host/i/HGzeMXa)
 2. **Logical Design**
 - This Defines how the system should be implemented
 - Here, we include the environment without actual names or sizes
-- Here is a link of the diagram I was able to design: ![Cruddur Logical CI/CD Concept](https://lucid.app/lucidchart/80785cdc-2138-4d03-8049-036331388c9b/edit?viewport_loc=-361%2C1095%2C2848%2C1666%2C0_0&invitationId=inv_832c6c02-d666-48e7-9629-04745b0c72c0)
+- Here is a link of the diagram I was able to design: [Cruddur Logical CI/CD Concept](https://lucid.app/lucidchart/80785cdc-2138-4d03-8049-036331388c9b/edit?viewport_loc=-361%2C1095%2C2848%2C1666%2C0_0&invitationId=inv_832c6c02-d666-48e7-9629-04745b0c72c0)
 3. **Physical Design**
 - This is the representation of the actual thing that was built
 - It includes IP Addresses, EC2 instances
