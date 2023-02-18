@@ -1,17 +1,4 @@
 # Week 0 — Billing and Architecture
-For Week 0 I was successfully able to go through all the tutorial videos created. From this, I've been able to carry out the following skills;
--Create AWS account and set aside root user access. Made use of MFA to secure my account with both root user and admin user.
--Had a basic understanding of 6 key security practices and understood the goal and need of security with regards to AWS 
--Reviewed and created a pdf with the AWS well architected tool to analyze best practices
--Created and Architectural diagram of the CI/CD pipeline of our crunchr application using LUCID CHARTS
--Realized a napkin concept of our business Idea
--Practiced how to make use of AWS free-tier and understand how to track spend in AWS. To do this, I practiced with the following AWS services as well(AWS Budgets, AWS Cost Explorer, Billing Alarms)
--Had my first go at monthly billing reports
--Used Cloudshell to securely access AWS 
--Generated AWS Credentials, used access keys to access AWS services from gitpod.
--Successfully created topics and made use of the SNS service to receive notifications. 
-
-Watched the hands-on video showing how to use the CLI to create a budget and as well to create sns topics but I am still trying to get the hang of the whole process. Will eventually be able to replicate the command line codes in the following days and do these tasks from the CLI.
 
 ## CLOUD ARCHITECTURE
 Here, we were able to understand what good architecture is, and the main take away of this was that Good architecture should address risks, assumptions and constraints. Also, that when considering risks, we should make use of the iron triangle (Fast, cheap or Good). 
@@ -71,3 +58,6 @@ We discussed about how we could successfully realize our design plans step by st
 3. **Physical Design**
 - This is the representation of the actual thing that was built
 - It includes IP Addresses, EC2 instances
+
+## CHALLENGES
+I was able to use the gitpod cli to access the access my AWS services, as well as to save my access keys to ease future login access. Was also able to make changes to some core files and commit these changes to github. Presently, I'm still trying to get my way around creating a budget and using cloudwatch to set an alarm through the cli. Hopefully, Still trying to familiarize myself with github and the command line in general because I have never used them before. I'd like to have the permission to have a few extra days to practice this and complete these two tasks. 
